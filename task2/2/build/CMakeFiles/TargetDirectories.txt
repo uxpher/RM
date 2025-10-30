@@ -1,0 +1,3 @@
+/home/uxpher/RM/task123/task2/2/build/CMakeFiles/ArmorDetector.dir
+/home/uxpher/RM/task123/task2/2/build/CMakeFiles/edit_cache.dir
+/home/uxpher/RM/task123/task2/2/build/CMakeFiles/rebuild_cache.dir

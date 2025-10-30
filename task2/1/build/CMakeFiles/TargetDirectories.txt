@@ -1,0 +1,3 @@
+/home/uxpher/RM/task123/task2/1/build/CMakeFiles/image_processor.dir
+/home/uxpher/RM/task123/task2/1/build/CMakeFiles/edit_cache.dir
+/home/uxpher/RM/task123/task2/1/build/CMakeFiles/rebuild_cache.dir

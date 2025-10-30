@@ -1,0 +1,3 @@
+/home/uxpher/RM/task123/task3/2/build/CMakeFiles/KF.dir
+/home/uxpher/RM/task123/task3/2/build/CMakeFiles/edit_cache.dir
+/home/uxpher/RM/task123/task3/2/build/CMakeFiles/rebuild_cache.dir
